@@ -1,0 +1,123 @@
+[
+  
+    {
+      "title"    : "Our adventures aboard S/V Aranji",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/welcome",
+      "date"     : "January 1, 2020"
+    } ,
+  
+    {
+      "title"    : "What Is Photography and What It Means To Me",
+      "category" : "",
+      "tags"     : "Photography, Tips",
+      "url"      : "/what-is-photography-and-what-it-means-to-me",
+      "date"     : "January 10, 2019"
+    } ,
+  
+    {
+      "title"    : "Basic Rules For Walking In The Mountains",
+      "category" : "",
+      "tags"     : "Travel",
+      "url"      : "/basic-rules-for-walking-in-the-mountains",
+      "date"     : "January 2, 2019"
+    } ,
+  
+    {
+      "title"    : "Visiting London for the First Time",
+      "category" : "",
+      "tags"     : "Photography, Travel",
+      "url"      : "/visiting-london-for-the-first-time",
+      "date"     : "January 1, 2019"
+    } ,
+  
+    {
+      "title"    : "Modern Graphic Design - Directions and Purpose",
+      "category" : "",
+      "tags"     : "Design, Tips",
+      "url"      : "/modern-graphic-design-directions-and-purpose",
+      "date"     : "November 15, 2018"
+    } ,
+  
+    {
+      "title"    : "The Cutting Edge Architecture",
+      "category" : "",
+      "tags"     : "Architecture, Design",
+      "url"      : "/the-cutting-edge-architecture",
+      "date"     : "November 13, 2018"
+    } ,
+  
+    {
+      "title"    : "Experience The Dramatic Landscape",
+      "category" : "",
+      "tags"     : "Photography",
+      "url"      : "/experience-dramatic-landscape",
+      "date"     : "November 12, 2018"
+    } ,
+  
+    {
+      "title"    : "The History of Visual Communication",
+      "category" : "",
+      "tags"     : "Design, Tips",
+      "url"      : "/history-of-visual-communication",
+      "date"     : "June 12, 2018"
+    } ,
+  
+    {
+      "title"    : "Seven Things That Will Make Or Break Fusion Festival",
+      "category" : "",
+      "tags"     : "Music, Tips",
+      "url"      : "/six-things-that-will-make-or-break-fusion-festival",
+      "date"     : "May 12, 2018"
+    } ,
+  
+    {
+      "title"    : "How To Start Learning Blockchain Development",
+      "category" : "",
+      "tags"     : "Tips, Development",
+      "url"      : "/how-to-start-learning-blockchain-development",
+      "date"     : "April 15, 2018"
+    } ,
+  
+    {
+      "title"    : "The Advantages &amp; Disadvantages of Working from Home",
+      "category" : "",
+      "tags"     : "Startup, Tips",
+      "url"      : "/working-from-home",
+      "date"     : "April 2, 2018"
+    } ,
+  
+    {
+      "title"    : "Options for creating a new site with Jekyll",
+      "category" : "",
+      "tags"     : "Jekyll, Tips, Development",
+      "url"      : "/options-for-creating-new-site-with-jekyll",
+      "date"     : "March 12, 2018"
+    } ,
+  
+    {
+      "title"    : "What is Jekyll?",
+      "category" : "",
+      "tags"     : "Jekyll, Development",
+      "url"      : "/what-is-jekyll",
+      "date"     : "February 10, 2018"
+    } ,
+  
+    {
+      "title"    : "Advanced Markdown tips",
+      "category" : "",
+      "tags"     : "Jekyll, Tips",
+      "url"      : "/advanced-markdown-tips",
+      "date"     : "February 7, 2018"
+    } ,
+  
+    {
+      "title"    : "A Week With the Apple Watch",
+      "category" : "",
+      "tags"     : "Tips, Minimal",
+      "url"      : "/a-week-with-the-apple-watch",
+      "date"     : "January 12, 2018"
+    } 
+  
+]

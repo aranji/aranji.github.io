@@ -1,0 +1,63 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve'.
+# If you change this file, please restart the server process.
+
+# Site setings
+name: 'S/V Aranji'
+description: 'Adventures of Sailing Vessel Aranji and it''s crew.'
+# Sidebar about text
+site_description: 'Welcome to my blog. It features topics such as fashion, architecture, travel & design. This blog is about finding balance in life, living with purpose, having fun, and doing what you love.'
+logo: # path of site logo, e.g. "assets/images/images/logo.png"
+favicon: 'assets/images/favicon.ico'
+baseurl: # the subpath of your site, e.g. "/blog"
+production_url: https://svaranji.com/
+# disqus: 'justgoodthemes'
+mailchimp_url: //svaranji.us4.list-manage.com/subscribe?u=0c758ddea849bf01accc68c32&id=a785e3deca
+ga_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+
+# Contact form setings
+email: aranji@digitwolf.com
+contact_page_description: "Forma theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want."
+thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
+
+
+# Social links
+instagram: 'svaranji'
+
+# Navigation
+navigation:
+  - text: Alaska
+    url: /alaska/
+  - text: Contact Me
+    url: /contact/
+
+# Required Plugins
+plugins_dir:
+  - jekyll-author-page
+  - jekyll-paginate
+  - jekyll-tagsgenerator
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - sidenote
+  
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Permalinks
+permalink: /:title
+
+# Other
+markdown: kramdown
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed

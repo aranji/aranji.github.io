@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator>
+  <link href="http://localhost:4000/author/ruslan/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-01-01T20:58:51-08:00</updated>
+  <id>http://localhost:4000/author/ruslan/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">S/V Aranji | </title>
+  
+
+  
+    <subtitle>Adventures of Sailing Vessel Aranji and it's crew.</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Our adventures aboard S/V Aranji</title>
+      <link href="http://localhost:4000/welcome" rel="alternate" type="text/html" title="Our adventures aboard S/V Aranji" />
+      <published>2020-01-01T00:00:00-08:00</published>
+      <updated>2020-01-01T00:00:00-08:00</updated>
+      <id>http://localhost:4000/welcome</id>
+      <content type="html" xml:base="http://localhost:4000/welcome">&lt;h2 id=&quot;welcome&quot;&gt;Welcome&lt;/h2&gt;
+&lt;p&gt;This blog is about S/V Aranji and our adventures aboard it. It’s purpose is to share our life, desicions and memories.
+Hopefully you will enjoy it find it useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;aranji&quot;&gt;Aranji&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Aranji&lt;/strong&gt; is the main hero in these stories. It is a 1968 cutter-rigged aluminum sailboat. It was design by &lt;a href=&quot;https://sailboatdata.com/designer/lapworth-c-william&quot;&gt;William Lapworh&lt;/a&gt; as a racing sailboat. It was built by Yacht Dynamics (was owned) in California.&lt;/p&gt;
+
+&lt;h3 id=&quot;history&quot;&gt;History&lt;/h3&gt;
+&lt;blockquote class=&quot;alignleft&quot;&gt;“Aranji Declared Victor of Tahiti Race” &lt;cite&gt;—New Your Times&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;In 1968 Aranji participated in a race from LA to Tahiti  (3,571 nautical miles).
+It took only 13 days and 13 hours for Henry Wheeler and his crew to sail on Aranji from LA to Tahiti.&lt;/p&gt;
+
+&lt;blockquote class=&quot;alignright&quot;&gt;First to finish and overall: Aranji (48' LOA) , Henry H. Wheeler (ET 20:12:27:24, CT 13:13:00:24)&lt;cite&gt;— Diane Arbus&lt;/cite&gt;&lt;/blockquote&gt;
+
+&lt;figure class=&quot;full-width&quot;&gt;
+    &lt;img src=&quot;/assets/photo/aranji/puget_sound_1.jpg&quot; alt=&quot;Aranji from port side&quot; /&gt;
+    
+    &lt;figcaption class=&quot;caption-text&quot;&gt;Sailing yankee jib and stay-sail&lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nytimes.com/1968/07/09/archives/aranji-declared-victor-of-tahiti-race.html&quot;&gt;New Your Times&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://archive.sailingscuttlebutt.com/news/07/0815/&quot;&gt;Scuttlebutt Sailing News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Ruslan Babych</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">Welcome This blog is about S/V Aranji and our adventures aboard it. It’s purpose is to share our life, desicions and memories. Hopefully you will enjoy it find it useful.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
